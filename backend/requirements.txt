@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2
+pydantic-settings
+supabase>=2
+PyJWT
+httpx
+# Optional ML deps:
+# pillow
+# numpy
+# onnxruntime
+# torch
+
+# Dev/test
+pytest
+pytest-asyncio
+ruff
